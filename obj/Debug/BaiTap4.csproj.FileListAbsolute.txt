@@ -1,0 +1,11 @@
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\bin\Debug\BaiTap4.exe.config
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\bin\Debug\BaiTap4.exe
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\bin\Debug\BaiTap4.pdb
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\obj\Debug\BaiTap4.csproj.AssemblyReference.cache
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\obj\Debug\bt_b4.Form1.resources
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\obj\Debug\bt_b4.Form2.resources
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\obj\Debug\BaiTap4.Properties.Resources.resources
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\obj\Debug\BaiTap4.csproj.GenerateResource.cache
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\obj\Debug\BaiTap4.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\obj\Debug\BaiTap4.exe
+C:\Users\PC MSI\source\repos\BaiTap4\BaiTap4\obj\Debug\BaiTap4.pdb
